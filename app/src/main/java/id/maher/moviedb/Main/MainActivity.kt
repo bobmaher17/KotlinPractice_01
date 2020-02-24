@@ -1,7 +1,8 @@
-package id.maher.moviedb
+package id.maher.moviedb.Main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import id.maher.moviedb.R
 
 class MainActivity : AppCompatActivity() {
 
